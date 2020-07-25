@@ -1,0 +1,19 @@
+.banner {
+background-image: url(../../images/sneaker.jpg);
+color: white;
+padding: 150px 0px;
+background-size: cover;
+background-position: center;
+padding-right: none;
+}
+
+.banner h1 {
+	font-size: 85px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	margin-bottom: 40px;
+
+}
+
